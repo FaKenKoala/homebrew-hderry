@@ -4,9 +4,9 @@
 class Hderry < Formula
     desc "Haskell for dart derry library"
     homepage "https://github.com/FaKenKoala/HaskellForDerry"
-    url "https://github.com/FaKenKoala/HaskellForDerry/archive/refs/tags/v0.1.0.tar.gz"
-    sha256 "92ed68430ee23cd906412469328cae7eb0654f0ada7b967abacdd27556a27323"
-    version "0.1.0"
+    url "https://github.com/FaKenKoala/HaskellForDerry/archive/refs/tags/v0.2.0.tar.gz"
+    sha256 "fc76fde26cc61b5799534efe0db5f2b0a85aae2b8face1d99769e3542c20f2bd"
+    version "0.2.0"
   
     def install
       bin.install "hderry"
